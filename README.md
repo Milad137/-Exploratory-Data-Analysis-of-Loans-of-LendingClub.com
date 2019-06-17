@@ -12,6 +12,7 @@ then we send them to plotly server for online visualization using <a href=https:
 <a href=https://plot.ly/dashboard/milad137:54/present#/>View Plotly Charts</a>
 
 ## Power BI
-
-
-Keywords: Plotly, Dash, Power BI
+Two data sets have been prepared to be linked in Power BI.<br>
+Free Power Bi Desktop can be downloaded from <a href=https://www.microsoft.com/en-us/download/details.aspx?id=45331>Here</a>.
+<br>
+<b>Keywords</b>: Plotly, Dash, Power BI
